@@ -1,0 +1,10 @@
+hdf5storage==0.1.19
+keras==2.10.0
+mat73==0.59
+matplotlib==3.7.0
+numpy==1.19.5
+pandas==1.4.4
+patchify==0.2.3
+Pillow==9.5.0
+scipy==1.10.0
+tensorflow==2.10.0
