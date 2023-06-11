@@ -10,11 +10,11 @@ Instructions for running the program:
 
 1. Use requirements.txt to install necessary libraries for the program. Follow these steps:
 
-In your shell (or command prompt)
+  In your shell (or command prompt)
 
-(i) Go to the directory where requirements.txt is located
-(ii) activate your virtualenv (if you create a separate virtual envcironment for this program)
-(iii) run pip install -r requirements.txt 
+	(i) Go to the directory where requirements.txt is located
+	(ii) activate your virtualenv (if you create a separate virtual envcironment for this program)
+	(iii) run pip install -r requirements.txt 
 
 2. The input data for this program can be downloaded from the following link:
 https://drive.google.com/file/d/1UXHPNw8F9kMPXvPg42cO6dveyAahWMAk/view?usp=sharing
