@@ -21,10 +21,6 @@ https://drive.google.com/file/d/1UXHPNw8F9kMPXvPg42cO6dveyAahWMAk/view?usp=shari
 
 3. The example dataset has two files: (i)interferogram stack and (ii) labels (measurement pixel or not). The file ph_im.mat contains time series of interforgrams generated from WabInSAR software v5.3. The dimension is w*h*n, where w=width, h=height and n=number of SAR interferograms. The file elpx.mat contains pixel locations in image (elpx_imloc) and row (elpx_loc) forms for the selected measurement points after the pixel selection step.
 
-Please cite the following if using the program:
-
-Tiwari, Ashutosh and Shirzaei,Manoochehr (2023): Deep learning based measurement pixel selection in multi-temporal InSAR processing. University Libraries, Virginia Tech. Dataset.https://doi.org/10.7294/23478236
-
 Acknowledgements:
 
 Conceptualization, input data preparation, validation and funding: Manoochehr Shirzaei
